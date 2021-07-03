@@ -4,5 +4,5 @@
 
 提交所有的变更到Git本地仓库中:
 
-> `git commit`{{execute}}
+> `git commit -m "init project"`{{execute}}
 
