@@ -8,19 +8,20 @@
       {
         "title": "Step 1 - Git Init",
         "text": "step1.md",
-        "code": "setup.sh"
+        "code": "setup-step1.sh"
       },
       {
         "title": "Step 2 - Git Commit",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Step 3 - Git Branch",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
-        "text": "step4.md"
+        "title": "Step 4 - Git Merge VS Git Rebase",
+        "text": "step4.md",
+        "code": "setup-step4.sh"
       },
       {
         "title": "Step 5",

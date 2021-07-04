@@ -6,3 +6,6 @@
 
 > `git commit -m "init project"`{{execute}}
 
+使用查看git提交记录
+
+> `git log --graph`{{execute}}
